@@ -79,7 +79,7 @@ facebook.style.display='none';
             amazon.style.display='none';
         }
 button1.addEventListener('click',display1);
-button2.addEventListener('click',display2);
+button2.addEventListener('click',display2);    
 whatsappbtn.addEventListener('click',desc1);
 instagrambtn.addEventListener('click',desc2);
 facebookbtn.addEventListener('click',desc3);
